@@ -22,7 +22,9 @@ desktop pose-capture workflow for animation blocking.
 - Solves the full-body joint pose and builds an editable Blender rig
 - Exports the pose to Unreal Engine
 - Supports two figures in one capture
-- Includes self-tests
+- Self-tested two ways: iterative tests that confirm each stage works as intended,
+  and adversarial tests that try to break it on purpose (for example, inconsistent
+  capitalization in lookup keys). Every break is fixed and kept as a regression test.
 
 ![The capture setup](media/03-capture-rig.jpg)
 
