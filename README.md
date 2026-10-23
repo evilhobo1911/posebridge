@@ -6,6 +6,8 @@ Pose a physical figure. Get an animation-ready digital pose.
 
 *Real figure → solved Blender rig → animation. [Full clip](media/05-figure-to-animation.mp4)*
 
+![PoseBridge pipeline overview](media/04-pipeline-overview.jpg)
+
 **Status:** working internal tool. This repository documents the project; source is currently private.
 
 ![Figure on the capture turntable](media/01-figure-on-turntable.jpg)
@@ -18,8 +20,6 @@ builds an editable rig in Blender, and exports the pose for Unreal Engine — a
 desktop pose-capture workflow for animation blocking.
 
 ![Solved pose on the Blender rig](media/02-solved-rig-in-blender.jpg)
-
-![PoseBridge pipeline overview](media/04-pipeline-overview.jpg)
 
 ## What it does
 
