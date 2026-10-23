@@ -34,7 +34,7 @@ desktop pose-capture workflow for animation blocking.
 
 Built with Python, OpenCV and Blender.
 Figure: [Dummy 13 v1.0](https://www.printables.com/model/981111-dummy-13-version-10) by soozafone,
-licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). ArUco tag mounts added by evilhobo1911.
+licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). ArUco tag mounts added by tardigraderesearch.
 
 ---
-© 2026 evilhobo1911. All rights reserved for original PoseBridge material. Third-party designs retain their respective licenses.
+© 2026 tardigraderesearch. All rights reserved for original PoseBridge material. Third-party designs retain their respective licenses.
