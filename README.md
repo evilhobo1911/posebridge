@@ -15,6 +15,8 @@ desktop pose-capture workflow for animation blocking.
 
 ![Solved pose on the Blender rig](media/02-solved-rig-in-blender.jpg)
 
+![PoseBridge pipeline overview](media/04-pipeline-overview.jpg)
+
 ## What it does
 
 - Captures a posed figure from multiple turntable angles with one camera
