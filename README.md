@@ -2,6 +2,10 @@
 
 Pose a physical figure. Get an animation-ready digital pose.
 
+![From a hand-posed figure to an animation](media/05-figure-to-animation.gif)
+
+*Real figure → solved Blender rig → animation. [Full clip](media/05-figure-to-animation.mp4)*
+
 **Status:** working internal tool. This repository documents the project; source is currently private.
 
 ![Figure on the capture turntable](media/01-figure-on-turntable.jpg)
